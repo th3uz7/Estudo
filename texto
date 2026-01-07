@@ -1,0 +1,137 @@
+Header (topo)
+
+Logo ou nome do jogador
+
+Menu de navegação:
+
+Início
+
+Carreira
+
+Estatísticas
+
+Galeria
+
+Contato
+
+👉 Treina:
+
+flexbox
+
+alinhamento horizontal
+
+hover nos links
+
+2️⃣ Seção Início (Hero)
+
+Foto grande do jogador
+
+Nome em destaque
+
+Frase curta (ex: posição, clube ou lema)
+
+👉 Treina:
+
+background com imagem
+
+centralização vertical
+
+tipografia
+
+contraste de cores
+
+3️⃣ Seção Carreira
+
+Texto contando a trajetória do jogador
+
+Lista de clubes (com anos)
+
+Exemplo de estrutura (sem código):
+
+Nome do clube
+
+Ano de entrada
+
+Ano de saída
+
+👉 Treina:
+
+colunas
+
+espaçamento
+
+títulos e parágrafos bem organizados
+
+4️⃣ Seção Estatísticas
+
+Cards com números:
+
+Jogos
+
+Gols
+
+Assistências
+
+Títulos
+
+👉 Treina:
+
+cards
+
+grid ou flex
+
+sombras
+
+bordas arredondadas
+
+5️⃣ Seção Galeria
+
+Grade de imagens do jogador
+
+Ao passar o mouse, aparece um efeito (zoom, sombra ou legenda)
+
+👉 Treina:
+
+grid de imagens
+
+hover
+
+responsividade
+
+6️⃣ Seção Contato
+
+Formulário simples:
+
+Nome
+
+Email
+
+Mensagem
+
+Botão “Enviar”
+
+👉 Treina:
+
+inputs
+
+labels
+
+estilização de botão
+
+foco (:focus)
+
+7️⃣ Footer
+
+Redes sociais (ícones ou texto)
+
+Direitos autorais
+
+Ano atual
+
+👉 Treina:
+
+layout simples
+
+alinhamento
+
+cores mais discretas
